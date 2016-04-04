@@ -80,3 +80,6 @@ target/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+#swap files for VIM
+*.swp
