@@ -62,8 +62,9 @@ docs/_build/
 # PyBuilder
 target/
 
-# IPython Notebook
+# IPython
 .ipynb_checkpoints
+[Ss]hare
 
 # pyenv
 .python-version
@@ -83,3 +84,6 @@ pip-selfcheck.json
 
 #swap files for VIM
 *.swp
+
+#sqlite
+*.db
